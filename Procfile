@@ -1,0 +1,1 @@
+web: python3 mero/spiders/shareprice.py
